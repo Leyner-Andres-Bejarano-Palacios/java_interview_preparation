@@ -69,7 +69,7 @@ Do you know the difference between int, float y double ?
 java in a nutshell, 7th edition
 </details>
 
-### Theorical Question 4
+### Theorical Question 5
 
 Do you know the outcome of these operations in java ?
 
@@ -80,6 +80,25 @@ j = ++i;
 
 i = 1;
 j = i++;
+
+(byte) 28
+(int) (x + 3.14f)
+(String)h.get(k)
+
+<details><summary><b>Answer</b></summary>
+
+...
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
+
+### Theorical Question 5
+
+Do you know the understand what public, private and protected means for variables and functions ?
+
 
 <details><summary><b>Answer</b></summary>
 
