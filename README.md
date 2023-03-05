@@ -109,3 +109,72 @@ Do you know the understand what public, private and protected means for variable
 <details><summary><b>Source</b></summary>
 java in a nutshell, 7th edition
 </details>
+
+### Theorical Question 6
+
+Do you know what method overloading is ?
+
+
+<details><summary><b>Answer</b></summary>
+
+Defining multiple methods with the same name (different behaviours explain this better)
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
+
+### Theorical Question 7
+
+Do you understand what a abstract, final, native, synchronized and static method are ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/java_abstract_final_native.png "java_abstract_final_native")
+
+![Image](img/java_static_syncronized.png "java_static_syncronized")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
+
+### Theorical Question 8
+
+Do you understand the difference between checked and unchecked exceptions ?
+
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/java_checked_and_unchecked_exceptions.png "java_checked_and_unchecked_exceptions")
+
+![Image](img/java_checked_uncheckedexceptions_pt2.png "java_checked_uncheckedexceptions_pt2")
+
+![Image](img/java_checked_unchecked_exceptionspt3.png "java_checked_unchecked_exceptionspt3")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
+
+### Theorical Question 9
+
+Do you know what the ellipsis (...) mean in the arguments of a method ?
+
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/variable_lenght_argList_pt1.png "variable_lenght_argList_pt1")
+
+![Image](img/variable_lenght_argList_pt2.png "variable_lenght_argList_pt2")
+
+![Image](img/variable_lenght_argList_pt3.png "variable_lenght_argList_pt3")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
