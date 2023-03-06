@@ -315,3 +315,17 @@ Do you understand what implementing and extending a class means ,,,,,,,,,,,,,,,,
 <details><summary><b>Source</b></summary>
 java in a nutshell, 7th edition
 </details>
+
+### Theorical Question 16
+
+Do you know what transient and volatile variables are ?
+
+<details><summary><b>Answer</b></summary>
+
+...........................
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
