@@ -209,3 +209,18 @@ because they are zero indexed (start at 0)
 <details><summary><b>Source</b></summary>
 java in a nutshell, 7th edition
 </details>
+
+### Theorical Question 11
+
+Do you understand what the difference between a deep copy and a shallow copy in java?
+
+
+<details><summary><b>Answer</b></summary>
+
+https://howtodoinjava.com/java/array/java-array-clone-shallow-copy/
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
