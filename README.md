@@ -178,3 +178,34 @@ Do you know what the ellipsis (...) mean in the arguments of a method ?
 <details><summary><b>Source</b></summary>
 java in a nutshell, 7th edition
 </details>
+
+### Theorical Question 9
+
+Do you know what lambda is and how to define it in lambda ?
+
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/lambda_function.png "lambda_function")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
+
+
+### Theorical Question 10
+
+If an array called array_! has ten elments, do you understand why are we getting a ArrayIndexOutOfBoundsException message when we try to access array_1[10] ?
+
+
+<details><summary><b>Answer</b></summary>
+
+because they are zero indexed (start at 0)
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
