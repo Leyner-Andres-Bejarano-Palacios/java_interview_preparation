@@ -224,3 +224,50 @@ https://howtodoinjava.com/java/array/java-array-clone-shallow-copy/
 <details><summary><b>Source</b></summary>
 java in a nutshell, 7th edition
 </details>
+
+### Theorical Question 12
+
+wrapper classes,,,, boxing and unboxing conversion, ,,,, they explain this better in head first java
+
+<details><summary><b>Answer</b></summary>
+
+...................................
+
+</details>
+
+<details><summary><b>Source</b></summary>
+head first java
+</details>
+
+### Theorical Question 13
+
+Do you understand what packages are
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/java_packages.png "java_packages")
+
+![Image](img/java_package2.png "java_package2")
+
+![Image](img/java_package3.png "java_package3")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+head first java
+</details>
+
+### Theorical Question 14
+
+Do you know how to especify a different classpath ?
+
+<details><summary><b>Answer</b></summary>
+
+The Java runtime knows where the class files for the standard system classes are located and can load them as needed. When the interpreter runs a program that wants to use a class named com.davidflanagan.examples.Point, it knows that the code for that class is located in a directory named com/davidflanagan/examples/ and, by default, it “looks” in the current directory for a subdirectory of that name. In order to tell the interpreter to look in locations other
+than the current directory, you must use the ­classpath option when invoking the interpreter or set the CLASSPATH environment variable.
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
