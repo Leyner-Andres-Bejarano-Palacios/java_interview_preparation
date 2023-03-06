@@ -287,3 +287,31 @@ Do you know what public static void main(String[] args) is for ?
 <details><summary><b>Source</b></summary>
 java in a nutshell, 7th edition
 </details>
+
+### Theorical Question 15
+
+Can you create java programs outside of classes ?
+
+<details><summary><b>Answer</b></summary>
+
+Classes are the most fundamental structural element of all Java programs. You cannot write Java code without defining a class. All Java statements appear within classes, and all methods are implemented within classes.
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
+
+### Theorical Question 16
+
+Do you understand what implementing and extending a class means ,,,,,,,,,,,,,,,,,, head first java explain this better ?
+
+<details><summary><b>Answer</b></summary>
+
+...........................
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
