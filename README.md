@@ -257,7 +257,7 @@ Do you understand what packages are
 head first java
 </details>
 
-### Theorical Question 14
+### Theorical Question 15
 
 Do you know how to especify a different classpath ?
 
@@ -272,7 +272,7 @@ than the current directory, you must use the ­classpath option when invoking th
 java in a nutshell, 7th edition
 </details>
 
-### Theorical Question 14
+### Theorical Question 16
 
 Do you know what public static void main(String[] args) is for ?
 
@@ -288,7 +288,7 @@ Do you know what public static void main(String[] args) is for ?
 java in a nutshell, 7th edition
 </details>
 
-### Theorical Question 15
+### Theorical Question 17
 
 Can you create java programs outside of classes ?
 
@@ -302,9 +302,27 @@ Classes are the most fundamental structural element of all Java programs. You ca
 java in a nutshell, 7th edition
 </details>
 
-### Theorical Question 16
+### Theorical Question 18
 
 Do you understand what implementing and extending a class means ,,,,,,,,,,,,,,,,,, head first java explain this better ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/java_extending_class.png "java_extending_class")
+
+![Image](img/java_exteninng_pt2.png "java_exteninng_pt2")
+
+![Image](img/java_extending_pt3.png "java_extending_pt3")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
+
+### Theorical Question 19
+
+Do you know what transient and volatile variables are ?
 
 <details><summary><b>Answer</b></summary>
 
@@ -316,13 +334,35 @@ Do you understand what implementing and extending a class means ,,,,,,,,,,,,,,,,
 java in a nutshell, 7th edition
 </details>
 
-### Theorical Question 16
+### Theorical Question 20
 
-Do you know what transient and volatile variables are ?
+Do you understand what the super() function is for ?
 
 <details><summary><b>Answer</b></summary>
 
-...........................
+![Image](img/subclass_constructor.png "subclass_constructor")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
+
+### Theorical Question 21
+
+Do you understand what overriding a superclass means ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/overriding_in_java.png "overriding_in_java")
+
+![Image](img/java_overriding_pt2.png "java_overriding_pt2")
+
+![Image](img/java_overriding_pt3.png "java_overriding_pt3")
+
+![Image](img/java_overriding_pt4.png "java_overriding_pt4")
+
+![Image](img/java_overriding_pt5.png "java_overriding_pt5")
 
 </details>
 
