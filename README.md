@@ -271,3 +271,19 @@ than the current directory, you must use the ­classpath option when invoking th
 <details><summary><b>Source</b></summary>
 java in a nutshell, 7th edition
 </details>
+
+### Theorical Question 14
+
+Do you know what public static void main(String[] args) is for ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/running_java_program.png "running_java_program")
+
+![Image](img/running_java2.png "running_java2")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
