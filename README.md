@@ -369,3 +369,32 @@ Do you understand what overriding a superclass means ?
 <details><summary><b>Source</b></summary>
 java in a nutshell, 7th edition
 </details>
+
+### Theorical Question 22
+
+Do you understand what data hiding through encapsulation means ?
+
+<details><summary><b>Answer</b></summary>
+
+One of the most important object­oriented techniques we haven’t discussed so far is hiding the data within the class and making it available only through the methods.
+
+If a member of a class is declared with the public modifier, it means that the member is
+accessible anywhere the containing class is accessible. This is the least restrictive type of
+access control.
+
+If a member of a class is declared private, the member is never accessible, except within
+the class itself. This is the most restrictive type of access control.
+
+If a member of a class is declared protected, it is accessible to all classes within the
+package (the same as the default package accessibility) and also accessible within the body
+of any subclass of the class, regardless of the package in which that subclass is defined.
+
+If a member of a class is not declared with any of these modifiers, it has default access
+(sometimes called package access) and it is accessible to code within all classes that are
+defined in the same package but inaccessible outside of the package.
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
