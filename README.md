@@ -398,3 +398,101 @@ defined in the same package but inaccessible outside of the package.
 <details><summary><b>Source</b></summary>
 java in a nutshell, 7th edition
 </details>
+
+### Theorical Question 23
+
+Do you understand why interfaces were created in java ?
+
+<details><summary><b>Answer</b></summary>
+
+We also saw that a Java class can only inherit from a single class. This is quite a big restriction on the kinds of object­oriented programs that we want to build. The designers of Java knew this, but they also wanted to ensure that Java’s approach to object­oriented programming was less complex and error­prone than, for example, that of C++.
+
+The solution that they chose was to introduce the concept of an interface to Java. Like a class, an interface defines a new reference type. As its name implies, an interface is intended to represent only an API—so it provides a description of a type, and the methods (and signatures) that classes that implement that API must provide.
+
+In general, a Java interface does not provide any implementation code for the methods that it
+describes. These methods are considered mandatory—any class that wishes to implement the
+interface must provide an implementation of these methods.
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
+
+### Theorical Question 24
+
+Do you understand what are default methods in interface ?
+
+<details><summary><b>Answer</b></summary>
+
+Adding new methods to an interface without breaking backward compatibility requires
+providing some implementation for the older implementations of the interface so that they can
+continue to work. This mechanism is a default method, and it was first added to the platform
+in JDK 8.
+
+![Image](img/default_method_in_interface_pt1.png "default_method_in_interface_pt1")
+
+![Image](img/default_method_in_interface_pt2.png "default_method_in_interface_pt2")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
+
+### Theorical Question 25
+
+Do you know what generics are in java ?
+
+<details><summary><b>Answer</b></summary>
+
+One of the great strengths of the Java platform is the standard library that it ships. It provides a great deal of useful functionality—and in particular robust implementations of common datastructures. These implementations are relatively simple to develop with and are well documented. The libraries are known as the Java Collections. 
+
+Although they were still very useful, the earliest versions of the collections had a fairly major limitation, however. This limitation was that the data structure (sometimes called the container) essentially obscured the type of the data being stored in it.
+
+![Image](img/generics_pt1.png "generics_pt1")
+
+![Image](img/generics_pt2.png "generics_pt2")
+
+![Image](img/generics_pt3.png "generics_pt3")
+
+![Image](img/generics_pt4.png "generics_pt4")
+
+![Image](img/generics_pt5.png "generics_pt5")
+
+![Image](img/generics_pt6.png "generics_pt6")
+
+![Image](img/generics_pt7.png "generics_pt7")
+
+![Image](img/generics_pt8.png "generics_pt8")
+
+![Image](img/generics_pt9.png "generics_pt9")
+
+![Image](img/generics_pt10.png "generics_pt10")
+
+![Image](img/generics_pt11.png "generics_pt11")
+
+![Image](img/generics_pt12.png "generics_pt12")
+
+![Image](img/generics_pt13.png "generics_pt13")
+
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
+
+### Theorical Question 26
+
+Do you know what wildcard types are in java ?
+
+<details><summary><b>Answer</b></summary>
+
+
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
