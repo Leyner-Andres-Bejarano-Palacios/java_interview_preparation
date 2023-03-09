@@ -489,6 +489,72 @@ Do you know what wildcard types are in java ?
 
 <details><summary><b>Answer</b></summary>
 
+![Image](img/wildcard_java_pt1.png "wildcard_java_pt1")
+
+![Image](img/wildcard_java_pt2.png "wildcard_java_pt2")
+
+![Image](img/wildcard_java_pt3.png "wildcard_java_pt3")
+
+![Image](img/wildcard_java_pt4.png "wildcard_java_pt4")
+
+![Image](img/wildcard_java_pt5.png "wildcard_java_pt5")
+
+![Image](img/wildcard_java_pt6.png "wildcard_java_pt6")
+
+![Image](img/wildcard_java_pt7.png "wildcard_java_pt7")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
+
+### Theorical Question 27
+
+Do you know what enums are in java ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/enums_java_pt1.png "enums_java_pt1")
+
+![Image](img/enums_java_pt2.png "enums_java_pt2")
+
+![Image](img/enums_java_pt3.png "enums_java_pt3")
+
+![Image](img/enums_java_pt4.png "enums_java_pt4")
+
+![Image](img/enums_java_pt5.png "enums_java_pt5")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
+
+### Theorical Question 28
+
+Do you know what lambda expressions are in java ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/lambda_java_pt1.png "lambda_java_pt1")
+
+![Image](img/lambda_java_pt2.png "lambda_java_pt2")
+
+![Image](img/lambda_java_pt3.png "lambda_java_pt3")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
+
+### Theorical Question 29
+
+Do you know what functional-like functions are given to you in java ?
+
+<details><summary><b>Answer</b></summary>
+
 
 
 </details>
