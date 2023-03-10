@@ -551,11 +551,35 @@ java in a nutshell, 7th edition
 
 ### Theorical Question 29
 
-Do you know what functional-like functions are given to you in java ?
+Do you understand what static member type are in java ?
 
 <details><summary><b>Answer</b></summary>
 
+![Image](img/static_member_pt1.png "static_member_pt1")
 
+![Image](img/static_member_pt2.png "static_member_pt2")
+
+![Image](img/static_member_pt3.png "static_member_pt3")
+
+![Image](img/static_member_pt4.png "static_member_pt4")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+java in a nutshell, 7th edition
+</details>
+
+### Theorical Question 30
+
+Do you understand what non-denotable and var are in java ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/var_java_pt1.png "var_java_pt1")
+
+![Image](img/var_java_pt2.png "var_java_pt2")
+
+![Image](img/var_java_pt3.png "var_java_pt3")
 
 </details>
 
